@@ -17,10 +17,3 @@
 9. Run in second terminal `npm run dev`
 10. Visit `yourappurl/register` and create user
 11. Enjoy
-
-## Demo
-
-
-
-
-https://user-images.githubusercontent.com/60402744/205293945-0d103766-f179-4800-acd2-5c02b46f037b.mp4
